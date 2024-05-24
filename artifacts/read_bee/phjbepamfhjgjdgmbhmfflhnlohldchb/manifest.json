@@ -1,0 +1,23 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "images/reader128.png",
+      "16": "images/reader16.png",
+      "32": "images/reader32.png",
+      "48": "images/reader48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAju09Us7GIN7JC+NFe6WAofIv9lpt+/vOsJrRY/GuLbMkWbFruNSBh+bDaZ5HbkdIwDCzn7lMdgOGzd0/FvWg8NkgBcPxCDytN7t7oXUv51737Y3B+H0lc2vlifM//M4Gysz/LwR6+dc2zKnirE+Ld+QKX5W/P0nKfWhsbDZ1zAX49ELrYj8P8bKRZRPAPT5ksiVfIyMLqUVs595t5NNMzP8rZtyU++2p2rdEOiSLv03HvtWLNkWTf2Bg3LDro5s3aJgpSMcdfDxOghK4tJdoeo2m+BRcvGqTBQ4ce9bN6+OdbGwIQHzuBV3XjKOe+MfYexw5Rx3p3fHRolovi7+x+wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "permissions": [ "activeTab", "storage", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.9",
+   "web_accessible_resources": [ "images/*.png", "images/*.svg", "fonts/*" ]
+}

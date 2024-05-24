@@ -1,0 +1,90 @@
+[
+    {
+        "mutation": 1,
+        "type": "childList",
+        "target": "",
+        "added": [
+            {
+                "id": "rr-root",
+                "outerHTML": "<div id=\"rr-root\"></div>"
+            }
+        ],
+        "removed": []
+    },
+    {
+        "mutation": 2,
+        "type": "attributes",
+        "target": {
+            "id": "",
+            "outerHTML": "<body class=\"rb-open\" style=\"height: auto; overflow-y: scroll; position: relative; padding-top: 0px;\"><h1 id=\"header\">Content for extension testing.</h1><p id=\"paragraph1\">This is the content of the page</p><div id=\"mainContent\"><p id=\"innerParagraph\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div><img src=\"image.png\" alt=\"Image\" height=\"100\" width=\"100\"><script>myMutations=[];var mutationCount=0;var observer=new MutationObserver(function(e){mutationCount++;if(mutationCount===1)return;e.forEach(function(e){console.log(e);var t={};if(\"attributes\"==e.type){t.type=\"attributes\";var r={id:e.target.id,outerHTML:e.target.outerHTML};t.target=r,myMutations.push(JSON.stringify(t))}if(\"childList\"==e.type){var o=[],d=[];if(t.type=\"childList\",0<e.addedNodes.length)for(var a=0;a<e.addedNodes.length;a++){var i={id:(s=e.addedNodes[a]).id,outerHTML:s.outerHTML};o.push(i)}if(0<e.removedNodes.length)for(a=0;a<e.removedNodes.length;a++){var s;i={id:(s=e.removedNodes[a]).id,outerHTML:s.outerHTML};d.push(i)}t.target=e.target.id,t.added=o,t.removed=d,myMutations.push(JSON.stringify(t))}})}),container=document.documentElement||document.body,config={childList:!0,attributes:!0,characterData:!0,subtree:!0,attributeOldValue:!1,characterDataOldValue:!0};observer.observe(container,config)</script>\n<div id=\"rr-root\"></div></body>"
+        }
+    },
+    {
+        "mutation": 3,
+        "type": "attributes",
+        "target": {
+            "id": "",
+            "outerHTML": "<body class=\"rb-open\" style=\"height: auto; overflow-y: scroll; position: relative; padding-top: 0px;\"><h1 id=\"header\">Content for extension testing.</h1><p id=\"paragraph1\">This is the content of the page</p><div id=\"mainContent\"><p id=\"innerParagraph\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div><img src=\"image.png\" alt=\"Image\" height=\"100\" width=\"100\"><script>myMutations=[];var mutationCount=0;var observer=new MutationObserver(function(e){mutationCount++;if(mutationCount===1)return;e.forEach(function(e){console.log(e);var t={};if(\"attributes\"==e.type){t.type=\"attributes\";var r={id:e.target.id,outerHTML:e.target.outerHTML};t.target=r,myMutations.push(JSON.stringify(t))}if(\"childList\"==e.type){var o=[],d=[];if(t.type=\"childList\",0<e.addedNodes.length)for(var a=0;a<e.addedNodes.length;a++){var i={id:(s=e.addedNodes[a]).id,outerHTML:s.outerHTML};o.push(i)}if(0<e.removedNodes.length)for(a=0;a<e.removedNodes.length;a++){var s;i={id:(s=e.removedNodes[a]).id,outerHTML:s.outerHTML};d.push(i)}t.target=e.target.id,t.added=o,t.removed=d,myMutations.push(JSON.stringify(t))}})}),container=document.documentElement||document.body,config={childList:!0,attributes:!0,characterData:!0,subtree:!0,attributeOldValue:!1,characterDataOldValue:!0};observer.observe(container,config)</script>\n<div id=\"rr-root\"></div></body>"
+        }
+    },
+    {
+        "mutation": 4,
+        "type": "attributes",
+        "target": {
+            "id": "",
+            "outerHTML": "<body class=\"rb-open\" style=\"height: auto; overflow-y: scroll; position: relative; padding-top: 0px;\"><h1 id=\"header\">Content for extension testing.</h1><p id=\"paragraph1\">This is the content of the page</p><div id=\"mainContent\"><p id=\"innerParagraph\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div><img src=\"image.png\" alt=\"Image\" height=\"100\" width=\"100\"><script>myMutations=[];var mutationCount=0;var observer=new MutationObserver(function(e){mutationCount++;if(mutationCount===1)return;e.forEach(function(e){console.log(e);var t={};if(\"attributes\"==e.type){t.type=\"attributes\";var r={id:e.target.id,outerHTML:e.target.outerHTML};t.target=r,myMutations.push(JSON.stringify(t))}if(\"childList\"==e.type){var o=[],d=[];if(t.type=\"childList\",0<e.addedNodes.length)for(var a=0;a<e.addedNodes.length;a++){var i={id:(s=e.addedNodes[a]).id,outerHTML:s.outerHTML};o.push(i)}if(0<e.removedNodes.length)for(a=0;a<e.removedNodes.length;a++){var s;i={id:(s=e.removedNodes[a]).id,outerHTML:s.outerHTML};d.push(i)}t.target=e.target.id,t.added=o,t.removed=d,myMutations.push(JSON.stringify(t))}})}),container=document.documentElement||document.body,config={childList:!0,attributes:!0,characterData:!0,subtree:!0,attributeOldValue:!1,characterDataOldValue:!0};observer.observe(container,config)</script>\n<div id=\"rr-root\"></div></body>"
+        }
+    },
+    {
+        "mutation": 5,
+        "type": "attributes",
+        "target": {
+            "id": "",
+            "outerHTML": "<body class=\"rb-open\" style=\"height: auto; overflow-y: scroll; position: relative; padding-top: 0px;\"><h1 id=\"header\">Content for extension testing.</h1><p id=\"paragraph1\">This is the content of the page</p><div id=\"mainContent\"><p id=\"innerParagraph\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div><img src=\"image.png\" alt=\"Image\" height=\"100\" width=\"100\"><script>myMutations=[];var mutationCount=0;var observer=new MutationObserver(function(e){mutationCount++;if(mutationCount===1)return;e.forEach(function(e){console.log(e);var t={};if(\"attributes\"==e.type){t.type=\"attributes\";var r={id:e.target.id,outerHTML:e.target.outerHTML};t.target=r,myMutations.push(JSON.stringify(t))}if(\"childList\"==e.type){var o=[],d=[];if(t.type=\"childList\",0<e.addedNodes.length)for(var a=0;a<e.addedNodes.length;a++){var i={id:(s=e.addedNodes[a]).id,outerHTML:s.outerHTML};o.push(i)}if(0<e.removedNodes.length)for(a=0;a<e.removedNodes.length;a++){var s;i={id:(s=e.removedNodes[a]).id,outerHTML:s.outerHTML};d.push(i)}t.target=e.target.id,t.added=o,t.removed=d,myMutations.push(JSON.stringify(t))}})}),container=document.documentElement||document.body,config={childList:!0,attributes:!0,characterData:!0,subtree:!0,attributeOldValue:!1,characterDataOldValue:!0};observer.observe(container,config)</script>\n<div id=\"rr-root\"></div></body>"
+        }
+    },
+    {
+        "mutation": 6,
+        "type": "attributes",
+        "target": {
+            "id": "",
+            "outerHTML": "<body class=\"rb-open\" style=\"height: auto; overflow-y: scroll; position: relative; padding-top: 0px;\"><h1 id=\"header\">Content for extension testing.</h1><p id=\"paragraph1\">This is the content of the page</p><div id=\"mainContent\"><p id=\"innerParagraph\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div><img src=\"image.png\" alt=\"Image\" height=\"100\" width=\"100\"><script>myMutations=[];var mutationCount=0;var observer=new MutationObserver(function(e){mutationCount++;if(mutationCount===1)return;e.forEach(function(e){console.log(e);var t={};if(\"attributes\"==e.type){t.type=\"attributes\";var r={id:e.target.id,outerHTML:e.target.outerHTML};t.target=r,myMutations.push(JSON.stringify(t))}if(\"childList\"==e.type){var o=[],d=[];if(t.type=\"childList\",0<e.addedNodes.length)for(var a=0;a<e.addedNodes.length;a++){var i={id:(s=e.addedNodes[a]).id,outerHTML:s.outerHTML};o.push(i)}if(0<e.removedNodes.length)for(a=0;a<e.removedNodes.length;a++){var s;i={id:(s=e.removedNodes[a]).id,outerHTML:s.outerHTML};d.push(i)}t.target=e.target.id,t.added=o,t.removed=d,myMutations.push(JSON.stringify(t))}})}),container=document.documentElement||document.body,config={childList:!0,attributes:!0,characterData:!0,subtree:!0,attributeOldValue:!1,characterDataOldValue:!0};observer.observe(container,config)</script>\n<div id=\"rr-root\"></div></body>"
+        }
+    },
+    {
+        "mutation": 7,
+        "type": "childList",
+        "target": "rr-root",
+        "added": [
+            {
+                "id": "",
+                "outerHTML": "<div class=\"rr-app theme-white \"><section class=\"rr-app-wrapper\" style=\"max-width: 800px;\"><header class=\"rr-app-header theme-white\"><div class=\"rr-app-header__content\"><span class=\"rr-button--close\">Close</span><div class=\"rr-theme--toggle\"><span><img title=\"Speed Reading\" alt=\"\"></span><span><img title=\"Speed Reading\" alt=\"\"></span><span class=\"rr-show-images active\"></span><span class=\"rr-font--update rr-dec\"></span><span class=\"rr-font--update rr-inc\"></span><span class=\"rr-font-bold \"></span><span class=\"rr-theme--change theme-white\"></span><span class=\"rr-theme--change theme-yellow\"></span><span class=\"rr-theme--change theme-dark\"></span><div class=\"rr-popup-toggle__wrapper\"><div class=\"rr-popup-toggle--button\"><figure></figure><figure></figure><figure></figure></div></div></div></div></header><article class=\"rr-content__wrapper undefined\" style=\"font-size: 18px; line-height: 1.6em; font-weight: 400;\"><h1>Simplehoneypage</h1><div id=\"readability-page-1\" class=\"page\"><p id=\"paragraph1\">This is the content of the page</p><p id=\"innerParagraph\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p><img src=\"http://127.0.0.1:3000/image.png\" alt=\"Image\" height=\"100\" width=\"100\"></div></article></section></div>"
+            }
+        ],
+        "removed": []
+    },
+    {
+        "mutation": 8,
+        "type": "attributes",
+        "target": {
+            "id": "",
+            "outerHTML": "<img title=\"Speed Reading\" alt=\"\" style=\"display: none;\">"
+        }
+    },
+    {
+        "mutation": 9,
+        "type": "attributes",
+        "target": {
+            "id": "",
+            "outerHTML": "<img title=\"Speed Reading\" alt=\"\" style=\"display: none;\">"
+        }
+    },
+    {
+        "mutation": 10,
+        "type": "attributes",
+        "target": {
+            "id": "",
+            "outerHTML": "<img src=\"http://127.0.0.1:3000/image.png\" alt=\"Image\" height=\"100\" width=\"100\" style=\"display: none;\">"
+        }
+    }
+]

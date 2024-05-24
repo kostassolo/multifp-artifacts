@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="219px" height="231px" viewBox="0 0 219 231" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4-Copy" transform="translate(0.000000, -21.000000)" fill-rule="nonzero">
+            <g id="Group-2">
+                <path d="M167.979287,33.3509781 C195.638012,33.3509781 218.059839,56.3956337 218.059839,84.8226569 L218.059839,199.876998 C218.059839,228.304021 195.638012,251.348677 167.979287,251.348677 C140.320561,251.348677 117.898734,228.304021 117.898734,199.876998 L117.898734,84.8226569 C117.898734,56.3956337 140.320561,33.3509781 167.979287,33.3509781 Z" id="Rectangle-Copy-3" fill="#FFD800"></path>
+                <path d="M109.06099,-37.3509781 C136.719715,-37.3509781 159.141542,-14.3063226 159.141542,14.1207007 L159.141542,129.175042 C159.141542,157.602065 136.719715,180.64672 109.06099,180.64672 C81.4022643,180.64672 58.9804373,157.602065 58.9804373,129.175042 L58.9804373,14.1207007 C58.9804373,-14.3063226 81.4022643,-37.3509781 109.06099,-37.3509781 Z" id="Rectangle-Copy-3" fill="#FFD800" transform="translate(109.060990, 71.647871) rotate(90.000000) translate(-109.060990, -71.647871) "></path>
+                <rect id="Rectangle-Copy-10" fill="#000000" transform="translate(126.736479, 112.890679) rotate(45.000000) translate(-126.736479, -112.890679) " x="76.6559264" y="3.89182969" width="100.161105" height="217.997699" rx="50.0805524"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
