@@ -1,2 +1,6 @@
-# multifp-artifacts
-An artifact page for the ACSAC submission of Multi extension fingerprinting
+# Harnessing Multiplicity: Granular Browser Extension Fingerprinting through User Configurations - Artifacts Page
+This is the artifacts page for the ACSAC submission titled "Harnessing Multiplicity: Granular Browser Extension Fingerprinting through User Configurations.
+
+
+## Contents
+
