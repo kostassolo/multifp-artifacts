@@ -17,6 +17,9 @@ We include the artifacts for the following extensions
 | `Color Temperature (Change Lux)`   | mppedbpcpkaeclkgoppmdpdobhlpifeb  | 5       | 5K |
 | `OpenDyslexic`                     | cdnapgfjopgaggbmfgbiinmmbdcglnam  | 2       | 700K |
 | `Dyslexia Friendly `                     | miepjgfkkommhllbbjaedffcpkncboeo  | 4       | 10K |
+| `Dark Reader `                     | eimadpbcbfnmbkopoojfekhnkhdbieeh  | 42       | 5M |
+| `Read Bee `                     | phjbepamfhjgjdgmbhmfflhnlohldchb  | 6       | 500K |
+
 
 
 
