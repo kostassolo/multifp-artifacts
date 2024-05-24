@@ -9,7 +9,7 @@ Our paper introduces a technique for extracting multiple signatures of each exte
 We also provide a simplified honeypage for extension testing. Each configuration is applied through an additional content-script and the signature is extracted from a mutation observer.
 
 
-##Contents
+## Contents
 
-#Honeypage
+# Honeypage
 
