@@ -11,5 +11,5 @@ We also provide a simplified honeypage for extension testing. Each configuration
 
 ## Contents
 
-# Honeypage
+### Honeypage
 
