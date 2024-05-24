@@ -33,10 +33,10 @@ The folder contains a simple HTML page and a Node server hosting the page in loc
 
 ### Artifacts
 
-The folder contains 5 different extension folders. Each subfolder includes the extension's source code, as well as two directories:
+Contains 5 different extension folders. Each subfolder includes the extension's source code, as well as two directories:
 
 - **Configurations:** Contains the initial options (`configuration.json`) and various fuzzed configurations specific to each extension.
 
 - **Signatures:** Contains the following:
   - Baseline signature (e.g., when enabling the extension without customization).
-  - Each configuration (`config1.json`) has a corresponding resulting signature (`signature1.json`).
+  - Each configuration (`config1.json`) has a corresponding signature (`signature1.json`).
