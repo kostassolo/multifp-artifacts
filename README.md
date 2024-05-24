@@ -8,13 +8,23 @@ Our paper introduces a technique for extracting multiple signatures of each exte
 
 We also provide a simplified honeypage for extension testing. Each configuration is applied through an additional content-script, and the signature is extracted from a mutation observer.
 
+## Extensions
+
+We include the artifacts for the following extensions
+| Name  | ID   | Options|  Users |
+|-------|------|-------| |-------|
+| `Color Temperature (Change Lux) ` | mppedbpcpkaeclkgoppmdpdobhlpifeb  | 5   | 5,000 |
+
+
+
+
 ## Contents
 
 ### Honeypage
 
 The folder contains a simple HTML page and a Node server hosting the page in localhost.
 
-### Extensions
+### Artifacts
 
 The folder contains 5 different extension folders. Each subfolder includes the extension's source code, as well as two directories:
 
