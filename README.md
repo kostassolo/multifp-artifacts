@@ -11,9 +11,13 @@ We also provide a simplified honeypage for extension testing. Each configuration
 ## Extensions
 
 We include the artifacts for the following extensions
-| Name  | ID   | Options|  Users |
-|-------|------|-------| |-------|
-| `Color Temperature (Change Lux) ` | mppedbpcpkaeclkgoppmdpdobhlpifeb  | 5   | 5,000 |
+
+| Name                               | ID                                | Options | Users |
+|------------------------------------|-----------------------------------|---------|-------|
+| `Color Temperature (Change Lux)`   | mppedbpcpkaeclkgoppmdpdobhlpifeb  | 5       | 5K |
+| `OpenDyslexic`                     | cdnapgfjopgaggbmfgbiinmmbdcglnam  | 2       | 700K |
+| `Dyslexia Friendly `                     | miepjgfkkommhllbbjaedffcpkncboeo  | 4       | 10K |
+
 
 
 
