@@ -33,9 +33,9 @@ The folder contains a simple HTML page and a Node server hosting the page in loc
 
 Contains 5 different extension folders, with configuration options and different signatures.
 
-Specifically, for each folder we store the following :  
+Specifically, for each folder, we store the following :  
 
-- **extensionID:** The extension's original source code, as extracted from the Chrome  Store.
+- **extensionID:** The extension's source code as extracted from the Chrome  Store.
 
 - **Configurations Directory:**
   - `configuration.json`: The initial options for the extension.
