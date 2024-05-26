@@ -24,7 +24,6 @@ We include the artifacts for the following extensions
 
 
 
-## Contents
 
 ### Honeypage
 
