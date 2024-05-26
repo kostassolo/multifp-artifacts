@@ -36,7 +36,7 @@ Contains 5 different extension folders, with configuration options and different
 
 Specifically, each folder has the following : 
 
-- **<extensionID>:** The extension's original source code, as extracted from the Chrome  Store.
+- **extensionID:** The extension's original source code, as extracted from the Chrome  Store.
 
 - **Configurations Directory:**
   - `configuration.json`: The initial options for the extension.
