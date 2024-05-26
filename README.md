@@ -33,9 +33,10 @@ The folder contains a simple HTML page and a Node server hosting the page in loc
 ### Artifacts
 
 Contains 5 different extension folders, with configuration options and different signatures.
-Specifically each folder has the following : 
 
-- **Source Code:** The extension's original source code extracted from the Extension Store.
+Specifically, each folder has the following : 
+
+- **<extensionID>:** The extension's original source code, as extracted from the Chrome  Store.
 
 - **Configurations Directory:**
   - `configuration.json`: The initial options for the extension.
