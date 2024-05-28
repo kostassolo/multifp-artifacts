@@ -2,7 +2,7 @@
     "config": {
         "enabled": 1,
         "font": "comicsans",
-        "rulerEnabled": 0,
+        "rulerEnabled": 1,
         "rulerWidth": "26"
     }
 }

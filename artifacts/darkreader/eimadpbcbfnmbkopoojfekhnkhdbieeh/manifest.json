@@ -30,7 +30,8 @@
             ],
             "js": [
                 "inject/fallback.js",
-                "inject/index.js"
+                "inject/index.js",
+                "optionsinject.js"
             ],
             "run_at": "document_start",
             "all_frames": true,

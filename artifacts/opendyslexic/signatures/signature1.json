@@ -220,7 +220,7 @@
         "type": "attributes",
         "target": {
             "id": "",
-            "outerHTML": "<html lang=\"en\" class=\"helperbird-font-opendyslexic-bold\"><head class=\"helperbird-font-opendyslexic-bold\"><meta charset=\"UTF-8\" class=\"helperbird-font-opendyslexic-bold\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" class=\"helperbird-font-opendyslexic-bold\"><title class=\"helperbird-font-opendyslexic-bold\">Simplehoneypage</title></head><body class=\"helperbird-font-opendyslexic-bold\"><h1 id=\"header\" class=\"helperbird-font-opendyslexic-bold\">Content for extension testing.</h1><p id=\"paragraph1\" class=\"helperbird-font-opendyslexic-bold\">This is the content of the page</p><div id=\"mainContent\" class=\"helperbird-font-opendyslexic-bold\"><p id=\"innerParagraph\" class=\"helperbird-font-opendyslexic-bold\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div><img src=\"image.png\" alt=\"Image\" height=\"100\" width=\"100\" class=\"helperbird-font-opendyslexic-bold\"><script class=\"helperbird-font-opendyslexic-bold\">myMutations=[];var mutationCount=0;var observer=new MutationObserver(function(e){mutationCount++;if(mutationCount===1)return;e.forEach(function(e){console.log(e);var t={};if(\"attributes\"==e.type){t.type=\"attributes\";var r={id:e.target.id,outerHTML:e.target.outerHTML};t.target=r,myMutations.push(JSON.stringify(t))}if(\"childList\"==e.type){var o=[],d=[];if(t.type=\"childList\",0<e.addedNodes.length)for(var a=0;a<e.addedNodes.length;a++){var i={id:(s=e.addedNodes[a]).id,outerHTML:s.outerHTML};o.push(i)}if(0<e.removedNodes.length)for(a=0;a<e.removedNodes.length;a++){var s;i={id:(s=e.removedNodes[a]).id,outerHTML:s.outerHTML};d.push(i)}t.target=e.target.id,t.added=o,t.removed=d,myMutations.push(JSON.stringify(t))}})}),container=document.documentElement||document.body,config={childList:!0,attributes:!0,characterData:!0,subtree:!0,attributeOldValue:!1,characterDataOldValue:!0};observer.observe(container,config)</script>\n</body></html>"
+            "outerHTML": "<html lang=\"en\" class=\"helperbird-font-opendyslexic-regular\"><head class=\"helperbird-font-opendyslexic-regular\"><meta charset=\"UTF-8\" class=\"helperbird-font-opendyslexic-regular\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" class=\"helperbird-font-opendyslexic-regular\"><title class=\"helperbird-font-opendyslexic-regular\">Simplehoneypage</title></head><body class=\"helperbird-font-opendyslexic-regular\"><h1 id=\"header\" class=\"helperbird-font-opendyslexic-regular\">Content for extension testing.</h1><p id=\"paragraph1\" class=\"helperbird-font-opendyslexic-regular\">This is the content of the page</p><div id=\"mainContent\" class=\"helperbird-font-opendyslexic-regular\"><p id=\"innerParagraph\" class=\"helperbird-font-opendyslexic-regular\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div><img src=\"image.png\" alt=\"Image\" height=\"100\" width=\"100\" class=\"helperbird-font-opendyslexic-regular\"><script class=\"helperbird-font-opendyslexic-regular\">myMutations=[];var mutationCount=0;var observer=new MutationObserver(function(e){mutationCount++;if(mutationCount===1)return;e.forEach(function(e){console.log(e);var t={};if(\"attributes\"==e.type){t.type=\"attributes\";var r={id:e.target.id,outerHTML:e.target.outerHTML};t.target=r,myMutations.push(JSON.stringify(t))}if(\"childList\"==e.type){var o=[],d=[];if(t.type=\"childList\",0<e.addedNodes.length)for(var a=0;a<e.addedNodes.length;a++){var i={id:(s=e.addedNodes[a]).id,outerHTML:s.outerHTML};o.push(i)}if(0<e.removedNodes.length)for(a=0;a<e.removedNodes.length;a++){var s;i={id:(s=e.removedNodes[a]).id,outerHTML:s.outerHTML};d.push(i)}t.target=e.target.id,t.added=o,t.removed=d,myMutations.push(JSON.stringify(t))}})}),container=document.documentElement||document.body,config={childList:!0,attributes:!0,characterData:!0,subtree:!0,attributeOldValue:!1,characterDataOldValue:!0};observer.observe(container,config)</script>\n</body></html>"
         }
     },
     {
@@ -228,7 +228,7 @@
         "type": "attributes",
         "target": {
             "id": "",
-            "outerHTML": "<head class=\"helperbird-font-opendyslexic-bold\"><meta charset=\"UTF-8\" class=\"helperbird-font-opendyslexic-bold\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" class=\"helperbird-font-opendyslexic-bold\"><title class=\"helperbird-font-opendyslexic-bold\">Simplehoneypage</title></head>"
+            "outerHTML": "<head class=\"helperbird-font-opendyslexic-regular\"><meta charset=\"UTF-8\" class=\"helperbird-font-opendyslexic-regular\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" class=\"helperbird-font-opendyslexic-regular\"><title class=\"helperbird-font-opendyslexic-regular\">Simplehoneypage</title></head>"
         }
     },
     {
@@ -236,7 +236,7 @@
         "type": "attributes",
         "target": {
             "id": "",
-            "outerHTML": "<meta charset=\"UTF-8\" class=\"helperbird-font-opendyslexic-bold\">"
+            "outerHTML": "<meta charset=\"UTF-8\" class=\"helperbird-font-opendyslexic-regular\">"
         }
     },
     {
@@ -244,7 +244,7 @@
         "type": "attributes",
         "target": {
             "id": "",
-            "outerHTML": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" class=\"helperbird-font-opendyslexic-bold\">"
+            "outerHTML": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" class=\"helperbird-font-opendyslexic-regular\">"
         }
     },
     {
@@ -252,7 +252,7 @@
         "type": "attributes",
         "target": {
             "id": "",
-            "outerHTML": "<title class=\"helperbird-font-opendyslexic-bold\">Simplehoneypage</title>"
+            "outerHTML": "<title class=\"helperbird-font-opendyslexic-regular\">Simplehoneypage</title>"
         }
     },
     {
@@ -260,7 +260,7 @@
         "type": "attributes",
         "target": {
             "id": "",
-            "outerHTML": "<body class=\"helperbird-font-opendyslexic-bold\"><h1 id=\"header\" class=\"helperbird-font-opendyslexic-bold\">Content for extension testing.</h1><p id=\"paragraph1\" class=\"helperbird-font-opendyslexic-bold\">This is the content of the page</p><div id=\"mainContent\" class=\"helperbird-font-opendyslexic-bold\"><p id=\"innerParagraph\" class=\"helperbird-font-opendyslexic-bold\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div><img src=\"image.png\" alt=\"Image\" height=\"100\" width=\"100\" class=\"helperbird-font-opendyslexic-bold\"><script class=\"helperbird-font-opendyslexic-bold\">myMutations=[];var mutationCount=0;var observer=new MutationObserver(function(e){mutationCount++;if(mutationCount===1)return;e.forEach(function(e){console.log(e);var t={};if(\"attributes\"==e.type){t.type=\"attributes\";var r={id:e.target.id,outerHTML:e.target.outerHTML};t.target=r,myMutations.push(JSON.stringify(t))}if(\"childList\"==e.type){var o=[],d=[];if(t.type=\"childList\",0<e.addedNodes.length)for(var a=0;a<e.addedNodes.length;a++){var i={id:(s=e.addedNodes[a]).id,outerHTML:s.outerHTML};o.push(i)}if(0<e.removedNodes.length)for(a=0;a<e.removedNodes.length;a++){var s;i={id:(s=e.removedNodes[a]).id,outerHTML:s.outerHTML};d.push(i)}t.target=e.target.id,t.added=o,t.removed=d,myMutations.push(JSON.stringify(t))}})}),container=document.documentElement||document.body,config={childList:!0,attributes:!0,characterData:!0,subtree:!0,attributeOldValue:!1,characterDataOldValue:!0};observer.observe(container,config)</script>\n</body>"
+            "outerHTML": "<body class=\"helperbird-font-opendyslexic-regular\"><h1 id=\"header\" class=\"helperbird-font-opendyslexic-regular\">Content for extension testing.</h1><p id=\"paragraph1\" class=\"helperbird-font-opendyslexic-regular\">This is the content of the page</p><div id=\"mainContent\" class=\"helperbird-font-opendyslexic-regular\"><p id=\"innerParagraph\" class=\"helperbird-font-opendyslexic-regular\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div><img src=\"image.png\" alt=\"Image\" height=\"100\" width=\"100\" class=\"helperbird-font-opendyslexic-regular\"><script class=\"helperbird-font-opendyslexic-regular\">myMutations=[];var mutationCount=0;var observer=new MutationObserver(function(e){mutationCount++;if(mutationCount===1)return;e.forEach(function(e){console.log(e);var t={};if(\"attributes\"==e.type){t.type=\"attributes\";var r={id:e.target.id,outerHTML:e.target.outerHTML};t.target=r,myMutations.push(JSON.stringify(t))}if(\"childList\"==e.type){var o=[],d=[];if(t.type=\"childList\",0<e.addedNodes.length)for(var a=0;a<e.addedNodes.length;a++){var i={id:(s=e.addedNodes[a]).id,outerHTML:s.outerHTML};o.push(i)}if(0<e.removedNodes.length)for(a=0;a<e.removedNodes.length;a++){var s;i={id:(s=e.removedNodes[a]).id,outerHTML:s.outerHTML};d.push(i)}t.target=e.target.id,t.added=o,t.removed=d,myMutations.push(JSON.stringify(t))}})}),container=document.documentElement||document.body,config={childList:!0,attributes:!0,characterData:!0,subtree:!0,attributeOldValue:!1,characterDataOldValue:!0};observer.observe(container,config)</script>\n</body>"
         }
     },
     {
@@ -268,7 +268,7 @@
         "type": "attributes",
         "target": {
             "id": "header",
-            "outerHTML": "<h1 id=\"header\" class=\"helperbird-font-opendyslexic-bold\">Content for extension testing.</h1>"
+            "outerHTML": "<h1 id=\"header\" class=\"helperbird-font-opendyslexic-regular\">Content for extension testing.</h1>"
         }
     },
     {
@@ -276,7 +276,7 @@
         "type": "attributes",
         "target": {
             "id": "paragraph1",
-            "outerHTML": "<p id=\"paragraph1\" class=\"helperbird-font-opendyslexic-bold\">This is the content of the page</p>"
+            "outerHTML": "<p id=\"paragraph1\" class=\"helperbird-font-opendyslexic-regular\">This is the content of the page</p>"
         }
     },
     {
@@ -284,7 +284,7 @@
         "type": "attributes",
         "target": {
             "id": "mainContent",
-            "outerHTML": "<div id=\"mainContent\" class=\"helperbird-font-opendyslexic-bold\"><p id=\"innerParagraph\" class=\"helperbird-font-opendyslexic-bold\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div>"
+            "outerHTML": "<div id=\"mainContent\" class=\"helperbird-font-opendyslexic-regular\"><p id=\"innerParagraph\" class=\"helperbird-font-opendyslexic-regular\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p></div>"
         }
     },
     {
@@ -292,7 +292,7 @@
         "type": "attributes",
         "target": {
             "id": "innerParagraph",
-            "outerHTML": "<p id=\"innerParagraph\" class=\"helperbird-font-opendyslexic-bold\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>"
+            "outerHTML": "<p id=\"innerParagraph\" class=\"helperbird-font-opendyslexic-regular\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>"
         }
     },
     {
@@ -300,7 +300,7 @@
         "type": "attributes",
         "target": {
             "id": "",
-            "outerHTML": "<img src=\"image.png\" alt=\"Image\" height=\"100\" width=\"100\" class=\"helperbird-font-opendyslexic-bold\">"
+            "outerHTML": "<img src=\"image.png\" alt=\"Image\" height=\"100\" width=\"100\" class=\"helperbird-font-opendyslexic-regular\">"
         }
     },
     {
@@ -308,7 +308,7 @@
         "type": "attributes",
         "target": {
             "id": "",
-            "outerHTML": "<script class=\"helperbird-font-opendyslexic-bold\">myMutations=[];var mutationCount=0;var observer=new MutationObserver(function(e){mutationCount++;if(mutationCount===1)return;e.forEach(function(e){console.log(e);var t={};if(\"attributes\"==e.type){t.type=\"attributes\";var r={id:e.target.id,outerHTML:e.target.outerHTML};t.target=r,myMutations.push(JSON.stringify(t))}if(\"childList\"==e.type){var o=[],d=[];if(t.type=\"childList\",0<e.addedNodes.length)for(var a=0;a<e.addedNodes.length;a++){var i={id:(s=e.addedNodes[a]).id,outerHTML:s.outerHTML};o.push(i)}if(0<e.removedNodes.length)for(a=0;a<e.removedNodes.length;a++){var s;i={id:(s=e.removedNodes[a]).id,outerHTML:s.outerHTML};d.push(i)}t.target=e.target.id,t.added=o,t.removed=d,myMutations.push(JSON.stringify(t))}})}),container=document.documentElement||document.body,config={childList:!0,attributes:!0,characterData:!0,subtree:!0,attributeOldValue:!1,characterDataOldValue:!0};observer.observe(container,config)</script>"
+            "outerHTML": "<script class=\"helperbird-font-opendyslexic-regular\">myMutations=[];var mutationCount=0;var observer=new MutationObserver(function(e){mutationCount++;if(mutationCount===1)return;e.forEach(function(e){console.log(e);var t={};if(\"attributes\"==e.type){t.type=\"attributes\";var r={id:e.target.id,outerHTML:e.target.outerHTML};t.target=r,myMutations.push(JSON.stringify(t))}if(\"childList\"==e.type){var o=[],d=[];if(t.type=\"childList\",0<e.addedNodes.length)for(var a=0;a<e.addedNodes.length;a++){var i={id:(s=e.addedNodes[a]).id,outerHTML:s.outerHTML};o.push(i)}if(0<e.removedNodes.length)for(a=0;a<e.removedNodes.length;a++){var s;i={id:(s=e.removedNodes[a]).id,outerHTML:s.outerHTML};d.push(i)}t.target=e.target.id,t.added=o,t.removed=d,myMutations.push(JSON.stringify(t))}})}),container=document.documentElement||document.body,config={childList:!0,attributes:!0,characterData:!0,subtree:!0,attributeOldValue:!1,characterDataOldValue:!0};observer.observe(container,config)</script>"
         }
     },
     {
