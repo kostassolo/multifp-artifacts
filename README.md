@@ -36,7 +36,7 @@ Specifically, for each folder, we store the following:
 
 ### Honeypage
 
-The folder contains a simple HTML page and a Node server hosting the page in localhost.s
+The folder contains a simple HTML page and a Node server hosting the page in localhost.
 
 
 ### Fuzzing
